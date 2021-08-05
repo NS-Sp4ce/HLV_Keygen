@@ -6,5 +6,5 @@
 
 # and:
 
-**孙德胜别偷我代码！**
+Enjoy yourself.
 
