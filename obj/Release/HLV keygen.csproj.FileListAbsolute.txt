@@ -1,0 +1,9 @@
+E:\framework keygen\HLV keygen\bin\Release\HLV keygen.exe
+E:\framework keygen\HLV keygen\bin\Release\HLV keygen.pdb
+E:\framework keygen\HLV keygen\obj\Release\HLV keygen.csproj.AssemblyReference.cache
+E:\framework keygen\HLV keygen\obj\Release\keygen.MainForm.resources
+E:\framework keygen\HLV keygen\obj\Release\HLV_keygen.Properties.Resources.resources
+E:\framework keygen\HLV keygen\obj\Release\HLV keygen.csproj.GenerateResource.cache
+E:\framework keygen\HLV keygen\obj\Release\HLV keygen.csproj.CoreCompileInputs.cache
+E:\framework keygen\HLV keygen\obj\Release\HLV keygen.exe
+E:\framework keygen\HLV keygen\obj\Release\HLV keygen.pdb
